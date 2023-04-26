@@ -1,6 +1,8 @@
-# Address Parser
+# Address Parser using NLP Techniques 
 
 This Python script defines a class Address that works with different address formats and their elements. Given an address string, it extracts the street name, house number, postal code, and city name, and returns a dictionary containing these elements. The script also writes the output dictionary to a JSON file.
+
+Address parsing is a common task in natural language processing (NLP), which involves extracting structured information from unstructured text. This script can serve as a basic example of how NLP techniques can be used to parse and extract information from addresses.
 
 # Installation
 
