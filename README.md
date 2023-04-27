@@ -18,13 +18,13 @@ Then, open a command prompt or terminal window and navigate to the directory whe
 
 To run the script, enter the following command:
 
-# Run
-python address_parser.py
+```python address_parser.py```
+
 This will execute the script and print the output dictionary to the console. It will also write the output to a JSON file named "Output.json" in the same directory as the script.
 
 To use this script with a different address string, you can modify the AddressObject variable in the main section of the script:
 
-```AddressObject = Address("90 Thomas Bunglows, LA 39422")```
+```AddressObject = Address("Berliner Straße 99, Berlin 39422")```
 
 Replace the address string with your own address string, and then run the script as described above.
 
